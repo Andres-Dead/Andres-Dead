@@ -6,8 +6,8 @@
 - 💻 I'm a passionate of open software!
 - 🐧 Linux enthusiast!
 - 🐶 I have three dogs! (Felipe, Esponjoso and Güera)
-- 🎉 Year goals: Finish my engineering and learning about IA.
-- 💁 Fun fact: I love any kind of music and love to play bass.
+- 🎉 Year goals: Finish my engineering and learning more about IA.
+- 💁 Fun fact: I love any kind of music and I love to play bass.
 
 ### Connect with me!
 [<img align="left" alt="Andres-Dead | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
