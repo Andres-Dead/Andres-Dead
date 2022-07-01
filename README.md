@@ -1,7 +1,7 @@
 ## Hello wanderer, I'm Andres - Aka [DeadMan/Tarantula]
 
 ### I'm a Designer, Hobby Chef, Animal lover, and also Developer!
-- 🤓 I'm currently finishing my software engineering!
+- 🤓 BS degree as a Software Engineer!
 - 🤯 I like to be involved in mind blowing projects!
 - 💻 I'm a passionate of open software!
 - 🐧 Linux enthusiast!
