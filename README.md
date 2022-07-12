@@ -1,4 +1,4 @@
-## Hello wanderer, I'm Andres - Aka [DeadMan/Tarantula]
+## Hello wanderer, I'm Andres - Aka [DeadMan]
 
 ### I'm a Designer, Hobby Chef, Animal lover, and also Developer!
 - 🤓 BS degree as a Software Engineer!
