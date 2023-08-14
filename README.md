@@ -41,5 +41,5 @@
 <br />
 <br />
 
-[linkedin]: https://www.linkedin.com/in/andres-marquez-trujillo-5964211b0/
+[linkedin]: https://www.linkedin.com/in/ignacio-marquez-5964211b0/
 [telegram]: https://t.me//Dead_Man01
